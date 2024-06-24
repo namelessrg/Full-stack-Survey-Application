@@ -1,0 +1,21 @@
+>>>Installation
+Make sure you have Node.js and npm installed on your system. 
+Then, navigate to the project directory in your terminal and run the following command to install the required dependencies:
+npm install
+
+>>>Usage
+Start the Backend Server
+After installing the dependencies, start the backend server by running the following command:
+npm start
+
+By default, the server runs on port 3000. You can modify the port number in the server.js file if needed.
+
+>>>Open the Frontend in a Browser
+Once the server is running, open the index.html file in a web browser to access the survey application.
+
+>>>Fill out the Survey
+Fill out the survey form with your details and submit it.
+
+>>>View Survey Results
+After submitting the survey, the server will process the data and return a response. If the submission is successful,
+the survey results will be displayed below the form. If there are any errors, appropriate error messages will be shown.
